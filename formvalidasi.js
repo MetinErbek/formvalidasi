@@ -6,8 +6,9 @@
  * 
  */
 var inputs;
+var myform;
 $(document).ready(function(){
-  
+myform=$("form[class='valid']");  
   
   
 });
